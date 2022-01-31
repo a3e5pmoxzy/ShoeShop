@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ceniki Shop</string>
+    <string name="txt_link_sign_up">Set it up</string>
+    <string name="txt_link_welcome_screen">Go to welcome screen</string>
+    <string name="txt_title_login">Welcome back. Log in to continue with Shoe Shop</string>
+    <string name="txt_title_instructions_screen">Welcome to the instructions screen.</string>
+    <string name="txt_label_password_credentials">Password</string>
+    <string name="txt_label_email_address">Password</string>
+    <string name="txt_hint_email_address">info@example.com</string>
+    <string name="txt_hint_password_credentials">Your password</string>
+    <string name="btn_txt_login">Login</string>
+    <string name="nav_btn_shoe_list_screen">Go to the instructions screen</string>
+    <string name="nav_btn_welcome_screen">Go to the welcome screen</string>
+    <string name="txt_alt_logossplash_screen">Facebook logo</string>
+    <string name="txt_tagline_logossplash_screen">A safer way to ride</string>
+    <string name="txt_title_logossplash_screen">SHOE SHOP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
